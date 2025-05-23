@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL_OWERN", "SQL_OWERN\SQL_OWERN.ssmssqlproj", "{A0E9BB3C-3D0E-419D-BCDC-825DC3F9D5F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E9BB3C-3D0E-419D-BCDC-825DC3F9D5F0}.Default|Default.ActiveCfg = Default
+		{E43AE2FA-1CDA-488E-9213-BFC93BF77D30}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26941E19-8619-4B58-9250-02A3783727AB}
+	EndGlobalSection
+EndGlobal
