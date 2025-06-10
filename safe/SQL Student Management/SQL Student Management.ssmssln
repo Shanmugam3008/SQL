@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Student Management", "SQL Student Management\SQL Student Management.ssmssqlproj", "{554A0C79-3268-4D4B-B0AD-23172B11F9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554A0C79-3268-4D4B-B0AD-23172B11F9AB}.Default|Default.ActiveCfg = Default
+		{4E3FBBA7-E87D-4886-A313-B3595F2A835F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B37F5DB-049B-4571-B806-F0321D946834}
+	EndGlobalSection
+EndGlobal
